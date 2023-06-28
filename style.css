@@ -9,7 +9,7 @@ body{
   background-color:   #eee;
   font-family: "Barlow Semi Condensed", sans-serif;
   font-size: 15px;
-    margin:45px;
+    margin: 130px 100px;
 }
 
 .container{
@@ -99,7 +99,7 @@ span {
 @media (max-width: 768px) {
     .container {
         grid-template-columns: 1fr;
-        margin: 20px;
+       
     }
 
     .card1,
